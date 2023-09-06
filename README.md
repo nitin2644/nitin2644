@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  📞 +91-8306676275 | 📧 nitingill1412@gmail.com<br>
+   📧 nitingill1412@gmail.com<br>
   🌟 Welcome to my GitHub profile! Let's connect on <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a> or explore my work on <a href="https://github.com/yourgithubprofile">GitHub</a> 🌟<br>
   📍 Jaipur, Rajasthan, India
 </p>
