@@ -5,7 +5,7 @@
   🤖 Engineer by passion, AI | ML Enthusiast, Astrophile 🚀<br>
   🌟 Currently exploring the cosmos of Machine Learning, AI, and Data Science to solve worldly puzzles and code a better future.<br>
   💡 Writing code that helps businesses make smarter decisions and crafting a brighter world one line at a time! 💡<br>
-  🎉 Skills include Python, C++, Java, Excel, Business Analysis, "People skills," and more!<br>
+  🎉 Skills include Python, C++, Java, ML, DL Excel, Business Analysis, "People skills," and more!<br>
   🌟 When I'm not coding, you'll find me playing sports, pondering the mysteries of the universe, or chatting with fellow Earthlings. 🌟<br>
   👨‍🚀 Learning every day, one cosmic byte at a time! 🛰️
 </p>
