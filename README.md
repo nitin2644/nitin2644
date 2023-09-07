@@ -2,6 +2,7 @@
   <h1 align="center">👋 Hey, I'm Nitin Gill</h1>
 
 <p align="center">
+   <p align="center"> Welcome to my GitHub profile! </p>
   🤖 Engineer by passion, AI | ML Enthusiast, Astrophile 🚀<br>
   🌟 Currently exploring the cosmos of Machine Learning, AI, and Data Science to solve worldly puzzles and code a better future.<br>
   💡 Writing code that helps businesses make smarter decisions and crafting a brighter world one line at a time! 💡<br>
@@ -13,7 +14,7 @@
 
 <p align="center">
    📧 nitingill1412@gmail.com<br>
-  🌟 Welcome to my GitHub profile! Let's connect on <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a> or explore my work on <a href="https://github.com/yourgithubprofile">GitHub</a> 🌟<br>
+  🌟 Let's connect on <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a> or explore my work on <a href="https://github.com/yourgithubprofile">GitHub</a> 🌟<br>
   📍 Jaipur, Rajasthan, India
 </p>
 
