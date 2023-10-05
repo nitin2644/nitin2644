@@ -14,7 +14,7 @@
 
 <p align="center">
    📧 nitingill1412@gmail.com<br>
-  🌟 Let's connect on <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a> or explore my work on <a href="https://github.com/yourgithubprofile">GitHub</a> 🌟<br>
+  🌟 Let's connect on <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a> and explore my work on <a href="https://github.com/yourgithubprofile">GitHub</a> 🌟<br>
   📍 Jaipur, Rajasthan, India
 </p>
 
